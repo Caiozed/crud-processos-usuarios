@@ -1,6 +1,6 @@
 # CRUD processos e usuarios.
 
-# projeto simples de crição de usuarios e processos com front end desenvolvido em React e back end desenvolvido em java.
+projeto simples de crição de usuarios e processos com front end desenvolvido em React e back end desenvolvido em java.
 
 ## Passos para rodar o projeto:
 
